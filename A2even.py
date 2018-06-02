@@ -3,9 +3,7 @@
 ##Program: A2: Even function
 ##Date: March 1st, 2018
 
-"""Purpose: Use the math and turtle module to map out a fundamental sin wave
-and corresponding harmonicfrequencies. Add the frequencies to map out a
-Triangle wave."""
+
 
 import math 
 import turtle
